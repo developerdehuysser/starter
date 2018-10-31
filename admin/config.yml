@@ -1,8 +1,6 @@
 backend:
-  name: github
-  repo: you/you.github.io
-  branch: master
-  site_domain: octopus-cat-123456.netlify.com
+  name: git-gateway
+  branch: master 
 
 media_folder: "images/uploads"
 
