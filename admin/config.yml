@@ -2,7 +2,7 @@ backend:
   name: github
   repo: developerdehuysser/starter
   branch: gh-pages
-  site_domain: developerdehuysser.github.io
+  site_domain: zen-bose-cf6373.netlify.com
 
 media_folder: "images/uploads"
 
